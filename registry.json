@@ -1,9 +1,9 @@
 {
   "registry_version": "2.0.0",
   "generated_at": 1788705153035,
-  "last_updated": 1794229676219,
-  "total_plugins": 181,
-  "required_count": 180,
+  "last_updated": 1795619169084,
+  "total_plugins": 180,
+  "required_count": 179,
   "optional_count": 1,
   "total_lib_files": 82,
   "total_default_files": 1,
@@ -74,7 +74,7 @@
       "required": true,
       "adminOnly": false,
       "path": "aimenu/describe.js",
-      "sha256": "d8dada430ddcfb40cb13578890a52d42379f39341c4074ec965862584abe186a"
+      "sha256": "c06e1ecb774ead95030bb26556cc87f3c704a1017726f2207f2eb977223c5f9e"
     },
     {
       "id": "felo",
@@ -325,7 +325,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/smeme.js",
-      "sha256": "cf270ce1bcf831ed1d2481b6dbd8a80be67e01781849d24886360d04586d5c99"
+      "sha256": "b1a3870cdcc01a15d6158f0e60c6ff5b6db08f10925e574ef49befda16780070"
     },
     {
       "id": "sticker",
@@ -340,7 +340,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/sticker.js",
-      "sha256": "3b9782e1ec546e94a8e124dca848524f50f58d000eab9b4025810025125602bc"
+      "sha256": "5eded850523a9b23d83f026a3ceaedffbc7ddc2528ee280c24a9f28558e3a880"
     },
     {
       "id": "take",
@@ -355,7 +355,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/take.js",
-      "sha256": "01dbb33b4591ffc625c53617cfab47207f8e65d9f7857a9a7efb621c16b7ebdd"
+      "sha256": "0034005b098386c73d37e4b19e83880e39d869fb07367a39c9e0e975572ef7fa"
     },
     {
       "id": "telesticker",
@@ -385,7 +385,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/toaudio.js",
-      "sha256": "994334806bf64b0eeb1f67577abd38dbdef9ad38a99ce19167d27de1744868cb"
+      "sha256": "92c1c34baf9bf93fd2f08a694f46a57f1ec13367c313199f204be353171b02b6"
     },
     {
       "id": "togif",
@@ -400,7 +400,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/togif.js",
-      "sha256": "77c8099a074db25f468401c5cda3d85d5a0f6fdeda29fd568bf31490fbb7330d"
+      "sha256": "1521d742ccfcafb5c9d3b354428c345fc78530a263e6c795befa1b3d0cdc4a42"
     },
     {
       "id": "toimage",
@@ -415,7 +415,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/toimage.js",
-      "sha256": "8fcaf6e7f41d63c85d2b21a54c7460cf288c43b7da94e5da12b21ebe1ba5e7bb"
+      "sha256": "a15f6390c08da72d824f40c127ea576c238d8b15cb18256adc8eb13595f1fdda"
     },
     {
       "id": "tomp3",
@@ -430,7 +430,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/tomp3.js",
-      "sha256": "d170a11a0dac764d901bfbd4c0a88e37e268d0cb5313fe4126f0f31b81dc689b"
+      "sha256": "8ef1fb604a49d265563cbf8a202613906856c576fda66a68081108f36c7e0d13"
     },
     {
       "id": "tourl",
@@ -445,7 +445,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/tourl.js",
-      "sha256": "fad6398667276225b4c103fd4460c11b0b2dc05098b109a266601b57a9366299"
+      "sha256": "a5f602b918a705adc13ebef7fe2feabffd5ae534692d02f153cc409d93236e16"
     },
     {
       "id": "tovideo",
@@ -460,7 +460,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/tovideo.js",
-      "sha256": "79191e42dc50e4e220909d816c999baa903d1a4f7c583ba5c56899ff0bb7e8b7"
+      "sha256": "aaa0bba43af6c5ce2f1c763e3a984ee3df7abd525eac8bb4c5640469d616ac6c"
     },
     {
       "id": "tovn",
@@ -475,7 +475,7 @@
       "required": true,
       "adminOnly": false,
       "path": "convertmenu/tovn.js",
-      "sha256": "0efa20314825be85c12f5386a02d513e06774adb05116922d03d96ed6051eade"
+      "sha256": "0c2a11badd671ea63f394f2cac3600d51f3cdba5dd4b7c06989532e2c0841306"
     },
     {
       "id": "applemusicdl",
@@ -493,7 +493,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/applemusicdl.js",
-      "sha256": "93cd1adbab011d6ad8b26779d924b8b2791a474fb01f728ee02e60fa501b9a64"
+      "sha256": "95e26b1fbefa2bc34f7ab9a96d1dd0bae932c725641c9f9053b659c05fa4646d"
     },
     {
       "id": "capcutdl",
@@ -511,7 +511,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/capcutdl.js",
-      "sha256": "536c039507a54142b7119867ecd3509acab2ef195ea1d3b209a67174b426fd68"
+      "sha256": "33c445402b7252c3d1ad48550496c84235d0a2e991dd940d4596d4e629af0f9e"
     },
     {
       "id": "download",
@@ -545,7 +545,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/fbdl.js",
-      "sha256": "af8db4d0a4c10550c6a522566d08e920471d3611c9d7b0f91841dd699a7a8384"
+      "sha256": "48289329469e59155564fe8130ed03ca5860b178d918101331c96e25de265673"
     },
     {
       "id": "gdrive",
@@ -580,7 +580,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/igdl.js",
-      "sha256": "c8f902bb9cde103f6d5cb2e2ea405c867cffad9a8010bc281b42fd81fb279989"
+      "sha256": "9b0c3bdea4554db166f395b20cac783ea2c278cec96003cf4be27bb4cc745a7a"
     },
     {
       "id": "mediafire",
@@ -616,7 +616,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/movies.js",
-      "sha256": "4e62f48dc12e28cad04393c98d1e75bbe3a30e598d7140e2b8263c23ad34fce5"
+      "sha256": "7ca9decbca40ba915aa1b178701f59f0e213e9c201c599e010e70503b6af858b"
     },
     {
       "id": "pinterest",
@@ -701,7 +701,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/tiktokdl.js",
-      "sha256": "6b187189e73abe7faa820f05bbcde79f21385500a0968ce1f3ba323544d52fd5"
+      "sha256": "29cef90c887758f51f8ac5782ef0907b5fd5b026b6097ddf7f34124af9578829"
     },
     {
       "id": "twitterdl",
@@ -720,7 +720,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/twitterdl.js",
-      "sha256": "95f2bf1042c2b495e09994bda42da00f79318689c4984d17d2056f3b2e1b032f"
+      "sha256": "321c91b12f68f492ac06de5c44862853231d6774f0f34a4b04416170f1792667"
     },
     {
       "id": "xnxxdl",
@@ -769,7 +769,7 @@
       "required": true,
       "adminOnly": false,
       "path": "downloadmenu/ytdl.js",
-      "sha256": "4118676d5c8564a7999a3a6aaa1015a69ca365bb8930ff4045ab332d9fd7d35c"
+      "sha256": "aa09d4875791f1b44aca70dba4a1bb40ee93dc52c1953cc3e4822dae7f17496e"
     },
     {
       "id": "downloadmenu",
@@ -1556,7 +1556,7 @@
       "required": true,
       "adminOnly": true,
       "path": "groupmenu/setgrouppp.js",
-      "sha256": "184eb1a74c17c26472f4d8b2715a65b38649a2046d1699ffdadb36e10445f623"
+      "sha256": "5bd3c08f69a8e84edb390b3ab9aefdd32fd5763657256f5afd8cbbfae66deb82"
     },
     {
       "id": "tagadmin",
@@ -1956,23 +1956,6 @@
       "sha256": "9778da9eb8620ca8b6a6e916838d76af607a1d75ebbe892c77ee785c7fd66169"
     },
     {
-      "id": "test1",
-      "name": "status",
-      "category": "mainmenu",
-      "description": "Display basic bot status",
-      "commands": [
-        "status",
-        "ping",
-        "alive"
-      ],
-      "usage": "",
-      "version": "1.0.0",
-      "required": true,
-      "adminOnly": false,
-      "path": "mainmenu/test1.js",
-      "sha256": "6d11290d15252a83af9b9e6d560eeb526ac8da3aa813cf63ccca428376448a5d"
-    },
-    {
       "id": "inspect",
       "name": "inspectsock",
       "category": "owner",
@@ -2086,7 +2069,7 @@
       "required": true,
       "adminOnly": false,
       "path": "ownermenu/autoonline.js",
-      "sha256": "526de9eeaf1cb444609bb9faf502cedd1b44839141963874e0d9f95ff6752d7c"
+      "sha256": "e4824caaf718076fb307d17d35c9342aed01ec9f3a684b167528a123bb0b845d"
     },
     {
       "id": "autorecording",
@@ -2103,7 +2086,7 @@
       "required": true,
       "adminOnly": false,
       "path": "ownermenu/autorecording.js",
-      "sha256": "7c239d80278e21b45bc94c44826a075c6d7c76cc8b5f6b1156073cd26f297b39"
+      "sha256": "2692ec649641cf28798a576f5934e1a0cb76e0dabc6577bac69ea0f9fe361aaf"
     },
     {
       "id": "autostatuslike",
@@ -2120,7 +2103,7 @@
       "required": true,
       "adminOnly": false,
       "path": "ownermenu/autostatuslike.js",
-      "sha256": "483e8862edbfeb432e091167c6b93a94e31f178b64c617a68d9b917b2714c2f0"
+      "sha256": "355d86dee8394d03a8f280022b5d3f67df3b7f8f8161e0ceb3ea2974f3391347"
     },
     {
       "id": "autostatusview",
@@ -2137,7 +2120,7 @@
       "required": true,
       "adminOnly": false,
       "path": "ownermenu/autostatusview.js",
-      "sha256": "c88b3ebae05e99b5b145726be792dbc013e3c6ab3cfb8c55bb24b5bf1b1f1a48"
+      "sha256": "b3cb2dc770f6bbd5422812efc5c280f4a7984057ee1da225bf5d3031b335f665"
     },
     {
       "id": "autotyping",
@@ -2153,7 +2136,7 @@
       "required": true,
       "adminOnly": false,
       "path": "ownermenu/autotyping.js",
-      "sha256": "f0b38c0b4a0218254e91533f918823ff09f0008b54bbc1f2b47d6e322567d4d7"
+      "sha256": "5e262e4548a5fa1c788d2337d5b3b7982101f9d5425169b4e225dd62595ba61d"
     },
     {
       "id": "block",
@@ -2249,7 +2232,7 @@
       "required": true,
       "adminOnly": false,
       "path": "groupmenu/gcstatus.js",
-      "sha256": "d3c72f80709e3aa190d317dd0445015f1beef7a3733a1e444bd225eddd0e20b0"
+      "sha256": "74034b174c50a54e3f00fd9c4f00d640f925c86179ad77c6560e7a1eda061a44"
     },
     {
       "id": "getplugin",
@@ -2379,7 +2362,7 @@
       "required": true,
       "adminOnly": false,
       "path": "ownermenu/mode.js",
-      "sha256": "3491ca32628d54f74bdc4ddfbe334a4d39a567db7c5d13854ba5dfa413cbbeb6"
+      "sha256": "d10765778d29b25734a16aa53c7fdc232bb37fd0082803bf9dd028b8d1369db6"
     },
     {
       "id": "ownermenu",
@@ -2489,7 +2472,7 @@
       "required": true,
       "adminOnly": false,
       "path": "searchmenu/xnxx.js",
-      "sha256": "0ab9bb3f5c063988aedb10155f7889a73ecad08f46ea03538c6785fd8cb2525a"
+      "sha256": "67500b66dd8f796a1261bdf1196f4c785cd2fa8bd08247785f2d5579b1f33334"
     },
     {
       "id": "xvideos",
@@ -2505,7 +2488,7 @@
       "required": true,
       "adminOnly": false,
       "path": "searchmenu/xvideos.js",
-      "sha256": "0a53b6b9b9f9ea49b1ea6ddb6fa5eb790b9e75a1d82def2bc00a325512cd44e4"
+      "sha256": "ba6f53508cedbbba1213d3d29cf04d72ec1232206d840c689203f0d2444514f5"
     },
     {
       "id": "ytsearch",
@@ -2522,7 +2505,7 @@
       "required": true,
       "adminOnly": false,
       "path": "searchmenu/ytsearch.js",
-      "sha256": "c92db7aa6b86267dea194a66a7b9d8ccee3f34bdc1a3aeac4df3dded741740c5"
+      "sha256": "2d6d99dcb79f2f3abfdbb1b0c070afe754a50218766275d973ba7538bc3af950"
     },
     {
       "id": "checkban",
@@ -2537,7 +2520,7 @@
       "required": true,
       "adminOnly": false,
       "path": "mainmenu/checkban.js",
-      "sha256": "243f946171b491b7f79cb0f33175e315c848a7744403cadd029a2366d9cc76e6"
+      "sha256": "36cbf57b2c7f6c7dd5b23ea1b0eb3252c12d8ed2afebb90a07954a2d5078b971"
     },
     {
       "id": "getgroups",
@@ -2567,7 +2550,7 @@
       "required": true,
       "adminOnly": false,
       "path": "groupmenu/globalstatus.js",
-      "sha256": "8592cc918b59d9cf341652b2ed010dd0573186e711c1a3d43edff2958579dc6f"
+      "sha256": "52fbf460758246894e03a92aa0a02a8b916a9903f3eb6b7cdf235b8836b6a741"
     },
     {
       "id": "imagetohd",
@@ -2621,7 +2604,7 @@
       "required": true,
       "adminOnly": false,
       "path": "toolmenu/ocr.js",
-      "sha256": "a4013a5a2c5454e62f9ae6cf3f23bfce982d00fc793f705548e1a40645ba94ba"
+      "sha256": "ecb4b3f2b66f02dcba65fd2b39415f57fedc9d2b97bb3e48579990c1f38d9ad9"
     },
     {
       "id": "removebg",
@@ -2964,7 +2947,7 @@
     },
     {
       "path": "buggers/functions/android/delayInvis.js",
-      "sha256": "a9b15002387258c1d184859f69da09aab9b0ceb136dfaddf0b15cf7a3609afbb"
+      "sha256": "6203a113be4e0fee9ce0bbd4a30a97faff1ab217d9f8222fef904e9c00de7a8c"
     },
     {
       "path": "buggers/functions/android/forceNew.js",
@@ -2980,11 +2963,11 @@
     },
     {
       "path": "buggers/functions/android/v17.js",
-      "sha256": "3d83e7c19135d51a08f880db2754a7a9c3baa3c434a27e7e8c8a38b04addcda6"
+      "sha256": "6807359ec5d698a9d022f31c474f832fbb46ffc2292c433474e3f0430bb239a9"
     },
     {
       "path": "buggers/functions/android/v18.js",
-      "sha256": "9f0df7641056dfb489a26fc619899f8126ca37a9311a1d547fa3b80cf9f219e2"
+      "sha256": "7f910909d8ccc6c3e615f54e538698ca7fdf231fbaa870b8ae3be0e3d8362cf3"
     },
     {
       "path": "buggers/functions/android/v22.js",
@@ -2992,7 +2975,7 @@
     },
     {
       "path": "buggers/functions/android/v23.js",
-      "sha256": "763abf190ff13f3f2f245c77e10359c67fc96309d6cad70e78ead34fa4de22fb"
+      "sha256": "e0fda0745fe83ff178126a042e2c2fedfcc8dfb4a13f454deab051496099657a"
     },
     {
       "path": "buggers/functions/android/v25.js",
@@ -3020,7 +3003,7 @@
     },
     {
       "path": "buggers/functions/android/v46.js",
-      "sha256": "8066a502ac67aed78e9ad9e728a254ae5de2cc70b33383696eb0f79399f8f6b4"
+      "sha256": "ab184722eb33e5de7ef71480b5a92b42700871ef7acd9437b780a2c806bfbf6c"
     },
     {
       "path": "buggers/functions/android/v48.js",
@@ -3036,7 +3019,7 @@
     },
     {
       "path": "buggers/functions/group/richResponseCrash.js",
-      "sha256": "fe8382e554004c13866280a686756a6d3b90e8008539da440190f43c71e74b7e"
+      "sha256": "958d9f832c0e5ac1decde63440e399fdef0e823f98186d0013afe921f50c54e8"
     },
     {
       "path": "buggers/functions/group/v20.js",
@@ -3060,7 +3043,7 @@
     },
     {
       "path": "buggers/functions/group/v43.js",
-      "sha256": "b361a8a2559bc579701e93facec9c3318e39c27d6884799977cf19250817d436"
+      "sha256": "277ebdfe2982d6514881391c4326a9e3e7187c8bc9e870ee17d4b1fce8bac4ef"
     },
     {
       "path": "buggers/functions/group/v44.js",
@@ -3092,7 +3075,7 @@
     },
     {
       "path": "buggers/functions/ios/v32.js",
-      "sha256": "e8093a8ff0641078a81be27736c76d6064935f1a9cdc7ed5283def5ef73363ae"
+      "sha256": "fc38951da0f414dba5210cc38a42f4560c53affc5617aaeba1557fa42a5a463d"
     },
     {
       "path": "buggers/functions/ios/v35.js",
@@ -3100,7 +3083,7 @@
     },
     {
       "path": "buggers/functions/ios/v36.js",
-      "sha256": "4ad4d4a94d6f6cd3a63e0df53643a13b491487104b513f6c82ef7cbf44e98409"
+      "sha256": "54d53804410c175e136f8c129fa711e1a438bb7d7c71f03bde0f9de526e95923"
     },
     {
       "path": "buggers/functions/ios/v38.js",
@@ -3108,7 +3091,7 @@
     },
     {
       "path": "buggers/functions/ios/v38_atomic.js",
-      "sha256": "7c5f5ab955a9eee0d5a39a7c926de368f7aa7e8fd497d33d9d21340b3eba36a3"
+      "sha256": "efc8db38b90de094707623dbec98b4912abaff9297309b2a75087a6382985256"
     },
     {
       "path": "converters/media-converter.js",
